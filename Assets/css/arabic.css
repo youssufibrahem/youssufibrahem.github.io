@@ -1,0 +1,30 @@
+.arabic {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+  font-family: 'Noto Kufi Arabic';
+}
+
+.bg-material {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.bg-material {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 24px;
+}
+
+.carousel-indicators {
+  position: relative;
+}
+
+#sidebar-wrapper {
+}
+
+#sidebar-wrapper {
+  background: linear-gradient(black, #1f5a88);
+}
+
+.footer {
+  background: linear-gradient(to right, black, #1f5a88);
+}
+
